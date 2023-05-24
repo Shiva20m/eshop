@@ -85,10 +85,10 @@ p{
 }
 
 .home .home-banner-1{
-    background-image:url('/images/slide1.png');
+    background-image:url('./images/slide1.png');
 }
 .home .home-banner-2{
-    background-image:url('/images/slide2.png');
+    background-image:url('./images/slide2.png');
 }
 .home .home-banner-1 .home-banner-text{
     position: absolute;
